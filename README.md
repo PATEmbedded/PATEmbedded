@@ -1,6 +1,6 @@
 ## Pourya Afshintabar · Embedded Systems Engineer
 
-Vienna, Austria · Rot-Weiß-Rot – Karte plus · Available immediately
+Vienna, Austria · Rot-Weiß-Rot – Karte plus
 
 Embedded Systems Engineer with extensive experience building industrial, oil & gas, medical and IoT products, and a growing focus on Edge AI. I write C/C++ firmware on bare metal, FreeRTOS and embedded Linux, and take products from requirements and system architecture through bring-up and testing to series production. I have also led hardware teams through analog/digital circuit and multilayer PCB design, following IEC EMC and ATEX guidelines.
 
