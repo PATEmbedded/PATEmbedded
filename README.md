@@ -17,7 +17,7 @@ Embedded Systems Engineer with extensive experience building industrial, oil & g
 
 ### Education
 
-- **M.Sc. in Electrical Engineering – Digital Electronic Systems**, Shahid Beheshti University, 10/2021 – 01/2024 · GPA 18.42 / 20 · thesis: a TinyML flame detector on a small MCU, 99.18% test accuracy
+- **M.Sc. in Electrical Engineering – Digital Electronic Systems**, Shahid Beheshti University, 10/2021 – 01/2024 · GPA 18.42 / 20 · thesis grade Excellent. Thesis: *Provision of an Optimized Cost and Dimension Processing System for Flame Detection*, a TinyML flame detector on a small MCU. Reached 99.18% test accuracy with a small INT8 CNN; a DSP filter checks consecutive frames, so a single wrong frame does not trigger an alarm.
 - **B.Sc. in Electronic Engineering**, Shamsipour Technical College, 10/2011 – 02/2015
 
 ### Skills
